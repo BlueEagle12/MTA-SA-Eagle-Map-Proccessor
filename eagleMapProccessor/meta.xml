@@ -1,0 +1,19 @@
+<meta>
+	<info type="script" name="" author="Blue Eagle" description="Blender map proccessor, take maps from blender and import them into MTA easily" version="1" />
+	<script type="server" src="config.lua" />
+
+	<script type="server" src="Scripts/helpers.lua" />	
+	<script type="server" src="Scripts/dataPrep.lua" />
+	<script type="server" src="Scripts/definitionPrep.lua" />
+	<script type="server" src="Scripts/placementPrep.lua" />
+	<script type="server" src="Scripts/mapDefinitionsPrep.lua" />
+	
+	<script type="server" src="Scripts/fileSorter.lua" />
+
+
+	
+	<script type="server" src="Scripts/metaPrep.lua" />
+	
+	
+	<script type="server" src="Scripts/outputdebug.lua" />
+</meta>
